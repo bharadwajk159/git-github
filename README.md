@@ -1,2 +1,2 @@
 # git-github
-sample GitHub setup
+sample github setup
